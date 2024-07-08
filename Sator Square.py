@@ -8,6 +8,9 @@ def is_sator_square(tablet):
                 return False
     return True
 
+
+#sample tests
+
 import codewars_test as test
 from solution import is_sator_square
 
